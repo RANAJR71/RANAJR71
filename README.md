@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rana Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Rana</h1>
 <h3 align="center">Aspiring Software Engineer | Django Developer | IT Student in Japan 🇯🇵</h3>
 
 ---
