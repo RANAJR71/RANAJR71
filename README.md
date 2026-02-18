@@ -1,13 +1,29 @@
-# Hi there 👋
-**RANAJR71/RANAJR71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Rana Ahmed</h1>
+<h3 align="center">Aspiring Software Engineer | Django Developer | IT Student in Japan 🇯🇵</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 About Me
+- 🌱 I’m currently learning **Django & Backend Development**
+- 🔭 I’m building **Real-world Web Applications**
+- 🎯 Goal: Work as an IT Engineer in Japan
+- ⚡ Fun fact: I love solving coding problems and improving my skills daily!
+
+---
+
+### 🛠️ Tech Stack
+- 💻 Python | Django  
+- 🌐 HTML | CSS | Bootstrap  
+- 🗄️ SQLite | MySQL  
+- 🔧 Git & GitHub  
+
+---
+
+### 📊 GitHub Stats
+![Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=RANAJR71&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 How to reach me
+📧 your-email@example.com  
+
